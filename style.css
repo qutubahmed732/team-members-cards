@@ -137,3 +137,9 @@
     bottom: 0;
     transition: all 0.3s linear 0s;
 }
+
+@media(max-width:600px){
+    .cards-section{
+        height:auto;
+    }
+}
